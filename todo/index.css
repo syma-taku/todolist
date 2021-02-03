@@ -1,0 +1,27 @@
+body{
+    background-color:#4dd0e1;
+    text-align: center;
+}
+
+.title{
+    color: #f8ffd7;
+    font-family: Impact;
+}
+
+ul{
+    color: #f8ffd7;
+    list-style: none; 
+}
+
+button{
+    margin: 0 0 0 5px;
+    background-color: #b2ebf2;
+}
+
+.to{
+    background-color: #b2ebf2;
+}
+
+.no {
+    text-decoration: line-through;
+}
